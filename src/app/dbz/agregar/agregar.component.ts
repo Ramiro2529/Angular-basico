@@ -1,5 +1,5 @@
 import { DbzService } from './../services/dbz.service';
-import { Component, EventEmitter, Input, Output } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import { Personaje } from '../interfaces/dbz.interface';
 
 @Component({
